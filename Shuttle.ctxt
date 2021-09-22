@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shuttle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shuttle\ here.\r\n\r\n\ @author\ (Erol\ Gelbul)\r\n\ @version\ (1.4\ amended\ by\ Erol\ Gelbul\ 2020.04.20)\r\n
+comment1.params=jCode
+comment1.target=Shuttle(java.lang.String)
+comment1.text=\r\n\ Fields\ added\ above.\r\n\ Shuttle\ constructor\ below\ has\ field\ values.\r\n\ jCode\ is\ the\ shuttle's\ journey\ code\r\n
+comment2.params=
+comment2.target=java.lang.String\ getJourneyCode()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

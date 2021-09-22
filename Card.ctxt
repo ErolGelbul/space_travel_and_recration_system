@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ @author\ (Erol\ Gelbul)\r\n\ @version\ (1.2\ amended\ by\ Erol\ Gelbul\ 2020.04.20)\r\n
+comment1.params=idnum\ nm\ luxr\ cr
+comment1.target=Card(int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Fields\ added\ above.\r\n\ Card\ constructor\ below\ has\ field\ values.\r\n\ loyalPoints\ is\ set\ to\ zero.\r\n\ Adds\ a\ card\ object\ to\ the\ array\r\n\ idnum\ isluxr\ is\ the\ card's\ luxury\ rating\ the\ card's\ number\r\n\ nm\ is\ the\ cards's\ name\r\n\ \r\n\ cr\ is\ the\ card's\ remaining\ credit\r\n
+comment10.params=amount
+comment10.target=boolean\ itsAMatch(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getLuxuryRating()
+comment3.params=
+comment3.target=int\ getCredits()
+comment4.params=
+comment4.target=int\ getLP()
+comment5.params=
+comment5.target=int\ getCardNo()
+comment6.params=
+comment6.target=int\ getCardName()
+comment7.params=amount
+comment7.target=void\ addCredits(int)
+comment8.params=amount
+comment8.target=boolean\ deductCredits(int)
+comment9.params=amount
+comment9.target=void\ loyaltyToCredits(int)
+numComments=12
